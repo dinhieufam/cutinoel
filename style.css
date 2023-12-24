@@ -1,0 +1,28 @@
+body {
+    background-image: url("wp5879218.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#title {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+#button {
+    margin: auto;
+    position: center;
+    /* width: 50%; */
+}
+
+#webcam-container {
+    text-align: center;
+}
+
+#label-container {
+    text-align: center;
+    color: rgb(253, 253, 184)
+}
